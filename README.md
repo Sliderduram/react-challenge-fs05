@@ -1,3 +1,9 @@
+fabricio.batista@aluno.faculdadeimpacta.com.br, Fabricio Diniz Batista
+ivo.kim@aluno.faculdadeimpacta.com.br, Ivo Byung Chul Kim
+luiz.rioja@aluno.faculdadeimpacta.com.br, Luiz Lélis Rioja Silva
+rafael.duram@aluno.faculdadeimpacta.com.br, Rafael Duram Santos
+sergio.antonio@aluno.faculdadeimpacta.com.br,Sergio Antonio Silva Junior
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
